@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cloud-Platform/static/css/main.073c9b0a.css",
+    "main.js": "/Cloud-Platform/static/js/main.7b7d032f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Cloud-Platform/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Cloud-Platform/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Cloud-Platform/index.html",
+    "main.073c9b0a.css.map": "/Cloud-Platform/static/css/main.073c9b0a.css.map",
+    "main.7b7d032f.js.map": "/Cloud-Platform/static/js/main.7b7d032f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Cloud-Platform/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b7d032f.js"
+  ]
+}
